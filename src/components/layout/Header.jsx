@@ -19,7 +19,7 @@ export default function Header({ viewMonth, isCurrentMonth, onNavigate, onAddTra
               <Sparkles size={14} className="text-emerald-400 dark:text-ink-900" />
             </div>
             <span className="font-display text-xl font-bold text-ink-900 dark:text-white tracking-tight hidden sm:block transition-colors duration-300">
-              Fina
+              FN
             </span>
           </div>
 
