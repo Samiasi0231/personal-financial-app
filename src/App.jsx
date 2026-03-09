@@ -95,7 +95,7 @@ export default function App() {
 
         <footer className="text-center py-4">
           <p className="text-xs text-ink-300 dark:text-ink-600 font-sans transition-colors">
-            Fina · Personal Finance Snapshot · Data stored locally in your browser
+            FN · Personal Finance App <span>spend wisely</span>
           </p>
         </footer>
       </main>
